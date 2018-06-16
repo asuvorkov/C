@@ -1,7 +1,6 @@
 #ifndef __STRING__H
 #define __STRING__H
 
-#include "MemoryTest.h"
 #include <stdbool.h>
 #include <stdio.h>
 
